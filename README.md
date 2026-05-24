@@ -1,2 +1,1 @@
-# Abhay-Personalized
-Personalized JSON
+# Visual studio code personalized

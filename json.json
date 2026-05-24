@@ -62,12 +62,12 @@
 		"description": "Full prompt (pt)"
 	},
 	
-	// 	You can also restrict snippets to specific files using include/exclude patterns:
-	// 	"Test snippet": {
-	// 		"prefix": "test",
-	// 		"body": "test('$1', () => {\n\t$0\n});",
-	// 		"include": ["**/*.test.ts", "*.spec.ts"],
-	// 		"exclude": ["**/temp/*.ts"],
-	// 		"description": "Insert test block"
-	// 	}
+		// You can also restrict snippets to specific files using include/exclude patterns:
+		// "Test snippet": {
+		// 	"prefix": "test",
+		// 	"body": "test('$1', () => {\n\t$0\n});",
+		// 	"include": ["**/*.test.ts", "*.spec.ts"],
+		// 	"exclude": ["**/temp/*.ts"],
+		// 	"description": "Insert test block"
+		// }
 }
